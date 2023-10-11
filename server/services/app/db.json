@@ -1,0 +1,162 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "contoh saja 1",
+      "slug": "contoh-saja-1",
+      "description": "ngetes doang",
+      "price": 3030,
+      "mainImg": "http://placekitten.com/g/200/300",
+      "categoryId": 1,
+      "authorId": 1,
+      "createdAt": "2023",
+      "updatedAt": "2023",
+      "categories": {
+        "id": 2,
+        "name": "Category 2",
+        "createdAt": "2023",
+        "updatedAt": "2023"
+      }
+    },
+    {
+      "id": 2,
+      "name": "contoh saja 2",
+      "slug": "contoh-saja-2",
+      "description": "ngetes doang 2",
+      "price": 3030,
+      "mainImg": "http://placekitten.com/g/200/300",
+      "categoryId": 2,
+      "authorId": 2,
+      "createdAt": "2023",
+      "updatedAt": "2023",
+      "categories": {
+        "id": 2,
+        "name": "Category 2",
+        "createdAt": "2023",
+        "updatedAt": "2023"
+      }
+    },
+    {
+      "id": 3,
+      "name": "contoh saja 3",
+      "slug": "contoh-saja-3",
+      "description": "ngetes doang 3",
+      "price": 3030,
+      "mainImg": "http://placekitten.com/g/200/300",
+      "categoryId": 1,
+      "authorId": 2,
+      "createdAt": "2023",
+      "updatedAt": "2023",
+      "categories": {
+        "id": 1,
+        "name": "Category 1",
+        "createdAt": "2023",
+        "updatedAt": "2023"
+      }
+    },
+    {
+      "id": 4,
+      "name": "contoh saja-4",
+      "slug": "contoh-saja-4",
+      "description": "ngetes doang 4",
+      "price": 3030,
+      "mainImg": "http://placekitten.com/g/200/300",
+      "categoryId": 1,
+      "authorId": 1,
+      "createdAt": "2023",
+      "updatedAt": "2023",
+      "categories": {
+        "id": 2,
+        "name": "Category 2",
+        "createdAt": "2023",
+        "updatedAt": "2023"
+      }
+    },
+    {
+      "id": 5,
+      "name": "contoh saja 5",
+      "slug": "contoh-saja-5",
+      "description": "ngetes doang 5",
+      "price": 3030,
+      "mainImg": "http://placekitten.com/g/200/300",
+      "categoryId": 2,
+      "authorId": 1,
+      "createdAt": "2023",
+      "updatedAt": "2023",
+      "categories": {
+        "id": 1,
+        "name": "Category 1",
+        "createdAt": "2023",
+        "updatedAt": "2023"
+      }
+    },
+    {
+      "id": 6,
+      "productName": "aaaas",
+      "price": "123123",
+      "description": "ngetesdoangg",
+      "mainImg": "http://placekitten.com/200/300",
+      "slug": "contoh-sajaaaa",
+      "categoryId": 1,
+      "authorId": 1,
+      "createdAt": "2023",
+      "updatedAt": "2023",
+      "categories": {
+        "id": 1,
+        "name": "Category 1",
+        "createdAt": "2023",
+        "updatedAt": "2023"
+      }
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Category 1",
+      "createdAt": "2023",
+      "updatedAt": "2023"
+    },
+    {
+      "id": 2,
+      "name": "Category 2",
+      "createdAt": "2023",
+      "updatedAt": "2023"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "typicode",
+      "email": "aaa@gmail.com",
+      "password": "123asd",
+      "role": "admin",
+      "phoneNumber": "081393939",
+      "address": "Jln. Muwardi I"
+    },
+    {
+      "id": 2,
+      "username": "shumin",
+      "email": "abc@gmail.com",
+      "password": "123asd",
+      "role": "admin",
+      "phoneNumber": "08171717",
+      "address": "Jln. Muwardi IV"
+    },
+    {
+      "username": "shumindesu",
+      "email": "halo@gmail.com",
+      "password": "hahahaha",
+      "role": "Admin",
+      "id": 3
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "productId": 1,
+      "imgUrl": "http://placekitten.com/g/200/300",
+      "createdAt": "2023",
+      "updatedAt": "2023"
+    }
+  ]
+}
